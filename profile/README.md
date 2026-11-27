@@ -78,7 +78,3 @@ npx -y @stophy/cli search "bun runtime" --limit 2
 ## Pricing
 
 Pay as you go in dollars, and the balance never expires. See [pricing](https://docs.stophy.dev/account/pricing).
-
-## Also from us
-
-**[AgentFS](https://github.com/stophydotdev/agentfs)** is cloud storage for AI agents.
